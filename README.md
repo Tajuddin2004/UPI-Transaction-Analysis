@@ -117,26 +117,30 @@ different attributes such as:
 ## Project Files
 
 - [📊 Power BI Dashboard](./UPI%20Transaction%20Analysis.pbix) — Original Power BI project file
-- [🖼️ Dashboard Preview](./UPI%20Transaction%20Analysis/Dashboard%20UPI.png) — Dashboard screenshot
+- [🎞️ Animated Dashboard](./UPI_Dashboard_Animated.pptx) — Animated presentation of the dashboard
+- [🖼️ Dashboard Preview](./Dashboard%20UPI.png) — Dashboard screenshot
 - [📁 Dataset](./UPI%2BTransactions.xlsx) — Excel dataset used for analysis
+
+---
+
+## Dashboard Preview
+
+![UPI Transaction Dashboard](./Dashboard%20UPI.png)
+
+---
 
 ## Skills Demonstrated
 
-- Data Cleaning
-- Data Transformation
-- Data Modeling
+- Power BI
+- Power Query
 - DAX
+- Data Cleaning & Transformation
+- Data Analysis
 - Data Visualization
-- Exploratory Data Analysis
 - Business Intelligence
 - Interactive Dashboard Development
 
-## Project Objective
-
-The primary objective of this project is to transform raw UPI transaction
-data into an interactive business intelligence dashboard that helps users
-understand transaction behavior, customer patterns, payment preferences,
-banking activity, and overall transaction performance.
+---
 
 ## Author
 
