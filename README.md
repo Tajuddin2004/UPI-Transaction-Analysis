@@ -123,9 +123,6 @@ different attributes such as:
 
 ---
 
-## Dashboard Preview
-
-![UPI Transaction Dashboard](./Dashboard%20UPI.png)
 
 ---
 
