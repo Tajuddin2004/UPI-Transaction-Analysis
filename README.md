@@ -116,10 +116,10 @@ different attributes such as:
 
 ## Project Files
 
-- [📊 Power BI Dashboard](./UPI%20Transaction%20Analysis.pbix) — Original Power BI project file
-- [🎞️ Animated Dashboard](./UPI_Dashboard_Animated.pptx) — Animated presentation of the dashboard
-- [🖼️ Dashboard Preview](./Dashboard%20UPI.png) — Dashboard screenshot
-- [📁 Dataset](./UPI%2BTransactions.xlsx) — Excel dataset used for analysis
+- [📊 Power BI Dashboard](./UPI%20Transaction%20Analysis/UPI%20Transaction%20Analysis.pbix) — Original Power BI project file
+- [🎞️ Animated Dashboard](./UPI%20Transaction%20Analysis/UPI_Dashboard_Animated.pptx) — Animated presentation of the dashboard
+- [🖼️ Dashboard Preview](./UPI%20Transaction%20Analysis/Dashboard%20UPI.png) — Dashboard screenshot
+- [📁 Dataset](./UPI%20Transaction%20Analysis/UPI%2BTransactions.xlsx) — Excel dataset used for analysis
 
 ---
 
