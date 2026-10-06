@@ -117,7 +117,7 @@ different attributes such as:
 ## Project Files
 
 - [📊 Power BI Dashboard](./UPI%20Transaction%20Analysis.pbix) — Original Power BI project file
-- [🖼️ Dashboard Preview](./dashboard.png) — Dashboard screenshot
+- [🖼️ Dashboard Preview](./UPI%20Transaction%20Analysis/Dashboard%20UPI.png) — Dashboard screenshot
 - [📁 Dataset](./UPI%2BTransactions.xlsx) — Excel dataset used for analysis
 
 ## Skills Demonstrated
