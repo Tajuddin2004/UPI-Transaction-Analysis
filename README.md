@@ -6,7 +6,7 @@ customer demographics, merchants, transaction status, and geographical trends.
 
 ## Dashboard Preview
 
-![UPI Transaction Dashboard](./dashboard.png)
+![UPI Transaction Dashboard](UPI-Transaction-Analysis/Dashboard UPI.png)
 
 ## Project Overview
 
